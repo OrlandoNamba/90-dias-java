@@ -23,3 +23,8 @@ Reforçar os fundamentos de lógica de programação, aprimorar conceitos de Ori
 
 ## 📝 Licença  
 Este projeto está licenciado sob a [MIT License](LICENSE). Isso significa que você pode usar, modificar e distribuir o código, desde que atribua o devido crédito.
+
+---
+
+Feito com ❤️ por [Orlando Namba](https://github.com/OrlandoNamba)  
+Siga minha jornada no [LinkedIn](https://www.linkedin.com/in/orlandonamba/) 🚀
