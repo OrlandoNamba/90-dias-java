@@ -27,7 +27,7 @@ public class somaDeNumerosImpares {
         }
 
         // Exibir a soma
-        System.out.println("A soma dos números ímpares até " + numero + " é: " + soma);
+        System.out.println("A    soma dos números ímpares até " + numero + " é: " + soma);
 
         // Fechar o scanner
         scanner.close();
